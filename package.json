@@ -57,7 +57,7 @@
     "color": "^1.0.3",
     "compression": "^1.4.0",
     "copy-webpack-plugin": "^4.0.0",
-    "css-loader": "^0.26.0",
+    "css-loader": "^1.0.0",
     "del": "^2.1.0",
     "eslint": "^3.2.2",
     "eslint-config-airbnb": "^13.0.0",
