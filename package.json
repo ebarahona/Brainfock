@@ -81,7 +81,7 @@
     "file-loader": "^0.10.0",
     "flow-bin": "^0.37.0",
     "gravatar": "^1.6.0",
-    "gulp": "^3.9.0",
+    "gulp": "^4.0.0",
     "gulp-bg": "^0.0.8",
     "gulp-eslint": "^3.0.1",
     "gulp-if": "^2.0.0",
