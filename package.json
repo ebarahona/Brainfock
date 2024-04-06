@@ -59,7 +59,7 @@
     "copy-webpack-plugin": "^4.0.0",
     "css-loader": "^0.26.0",
     "del": "^2.1.0",
-    "eslint": "^3.2.2",
+    "eslint": "^9.0.0",
     "eslint-config-airbnb": "^13.0.0",
     "eslint-loader": "^1.1.1",
     "eslint-plugin-babel": "^4.0.0",
